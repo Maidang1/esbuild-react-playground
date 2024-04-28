@@ -1,0 +1,25 @@
+{
+  "name": "quill",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.9.0",
+    "esbuild-wasm": "^0.20.2",
+    "primevue": "^3.52.0",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@unocss/preset-typography": "^0.59.4",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "typescript": "^5.2.2",
+    "unocss": "^0.59.4",
+    "vite": "^5.2.0",
+    "vue-tsc": "^2.0.6"
+  }
+}
