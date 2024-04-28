@@ -11,10 +11,14 @@
   "dependencies": {
     "@vueuse/core": "^10.9.0",
     "esbuild-wasm": "^0.20.2",
+    "lodash-es": "^4.17.21",
+    "monaco-editor": "^0.48.0",
+    "pinia": "^2.1.7",
     "primevue": "^3.52.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {
+    "@types/lodash-es": "^4.17.12",
     "@unocss/preset-typography": "^0.59.4",
     "@vitejs/plugin-vue": "^5.0.4",
     "typescript": "^5.2.2",
